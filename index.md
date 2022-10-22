@@ -1,3 +1,9 @@
+#### Personal information
+Name: Paulo de Tarso Vilarinho Castelo Branco Filho
+
+City: Teresina, Piuaí, Brazil
+
+---
 #### Contact Information
 📧 Email: [paulotarsobranco@gmail.com](mailto:paulotarsobranco@gmail.com)
 
@@ -6,6 +12,7 @@
 🔗 LinkedIn: [Paulo Vilarinho](https://www.linkedin.com/in/paulovilarinho7/)
 
 ---
+### **Work Experience**
 #### **Software Developer**
 [Codeminer42](https://www.codeminer42.com/), Teresina - (01/2021 - Today)
 
