@@ -1,7 +1,7 @@
 #### Personal information
 Name: Paulo de Tarso Vilarinho Castelo Branco Filho
 
-City: Teresina, Piuaí, Brazil
+City: Teresina, Piauí, Brazil
 
 ---
 #### Contact Information
