@@ -36,6 +36,13 @@ City: Teresina, Piauí, Brazil
   - Akarta provides a leadership evaluation and improvement program, evaluating leadership indicators using anonymous survey on the client's team.
   - My work at Akarta consisted of maintaining the system that provided the survey and compiling the data and providing a dashboard to visualize the leadership indicators.  I worked creating new features, fixing bugs, designing and estimating new tasks and solving production issues.
   - `Techs: Ruby (v2.6), Rails (v6.x), Sidekiq, Docker, Postgresql, Heroku, Redis`
+
+#### **Research and Game Developer**
+Labiras, Teresina - (10/2017 - 01/2021)
+
+- Labiras is a laboratory hosted by IFPI, one of the public universities in Piauí. Labiras specialized in robotics and game development research.
+- While participating in Labiras I worked with VR tools, game development, and web development. I worked on several different projects, the most noticeable one is a Kendo VR training to measure athlete reflexes on several different attacks, this project was presented at an international conference called Segah 2020. The data being generated was sent to a Django API that was responsible to process this data and measuring athletes' performance.
+- `Techs: Unreal Engine 4, Godot, Python, Django, Postgresql`
 ---
 
 #### 💻 Technology
